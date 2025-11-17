@@ -1,0 +1,40 @@
+# ======================
+# Flutter / Dart ignores
+# ======================
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec.lock
+
+# ======================
+# Python ignores
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.db
+instance/
+*.sqlite3
+
+# ======================
+# OS & IDE ignores
+# ======================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+
+# ======================
+# Environment & secrets
+# ======================
+.env
+*.key
+*.pem
+secrets.json
