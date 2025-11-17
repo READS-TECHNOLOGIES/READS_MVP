@@ -25,15 +25,14 @@ This repository hosts the MVP focused solely on the Learn-to-Earn module.
 - Firebase Auth / JWT
 
 ### **Backend**
-- FastAPI (recommended) or Django REST
+- FastAPI or Django REST
 - PostgreSQL
 - JWT Authentication
-- Simple rewards algorithm (no real token minting)
+- Simple rewards algorithm 
 
 ### **Blockchain Layer**
-- Cardano Testnet
-- No smart contracts for MVP
-- Backend simulates token earnings
+- Cardano Native
+- Smart Contracts
 
 ---
 
